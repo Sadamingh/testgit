@@ -1,6 +1,9 @@
 Hello
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> update
 Update
 dffdfweee1111
 Update
@@ -15,6 +18,7 @@ Hello
 Update
 ?????
 >>>>>>> update
+<<<<<<< HEAD
 =======
 12345
 Update
@@ -22,4 +26,6 @@ Hello
 Hello
 Update
 ?????
+>>>>>>> update
+=======
 >>>>>>> update
